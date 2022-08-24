@@ -7,7 +7,7 @@ A simple Spell Checker using Levenshtein Distance
 
 ![Endpoints](images/words_file.png)
 
-* You need a dictory with correct words
+* You need a dictionary with correct words
 
 ![Endpoints](images/dictionary_file.png)
 
