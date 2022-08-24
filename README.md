@@ -14,7 +14,7 @@ A simple Spell Checker using Levenshtein Distance
 To execute type this:
 * python spellchecker.py words_en.txt dictionary_en.txt
 
-## How does it look
+## How does it look in execution
 
 ![Endpoints](images/in_execution.png)
 
